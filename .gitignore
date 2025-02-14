@@ -8,6 +8,7 @@ __pycache__/
 
 # Local development
 *.db
+*.notes
 
 # C extensions
 *.so
