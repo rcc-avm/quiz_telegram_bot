@@ -3,18 +3,11 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-# Virtual environment
-venv/
-.venv/
-
 # IDE settings
-.idea/
 .vscode/
 
 # Local development
-.env
 *.db
-*.log
 
 # C extensions
 *.so
